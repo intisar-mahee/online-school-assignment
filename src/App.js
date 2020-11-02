@@ -1,6 +1,6 @@
 import './App.css';
 // import fakeData from './Component/fakeData/data.json';
-import Course from './Component/Course/Course';
+import Course from './Component/Course/Course.js';
 
 
 
